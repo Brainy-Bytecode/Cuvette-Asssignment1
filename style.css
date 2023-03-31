@@ -1,0 +1,145 @@
+body {
+    margin: 0;
+}
+
+.main-body {
+    background-color: #FFCD9E;
+    height: 70vh;
+    position: relative;
+    /* width: 1440px;
+    height: 592px;
+    left: 0px;
+    top: -1px;  */
+}
+
+#main-heading {
+    font-family: 'Inter', sans-serif;
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 40px;
+    letter-spacing: 0em;
+    text-align: left;
+    position: absolute;
+    width: 500px;
+    height: 100px;
+    left: 100px;
+    top: 10px;
+    font-style: normal;
+    /* display: inline-block; */
+}
+
+#para-1 {
+    position: absolute;
+    width: 495px;
+    height: 81px;
+    left: 100px;
+    top: 110px;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 130%;
+    /* display: inline-block; */
+}
+
+#sub-heading {
+    position: absolute;
+    width: 200px;
+    height: 25px;
+    left: 100px;
+    top: 210px;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 1em;
+    line-height: 50%;
+}
+
+#email {
+    background-color: #FFFFFF;
+    border: 2.5px solid #000000;
+    border-radius: 8px;
+    /* box-sizing: border-box; */
+    position: absolute;
+    width: 300px;
+    height: 15px;
+    left: 100px;
+    top: 260px; 
+    padding: 10px;
+}
+
+#button {
+    text-align: center;
+    color: #FFFFFF;
+    font-family: 'Inter', sans-serif;
+    position: absolute;
+    left: 450px;
+    top: 260px;
+    width: 150px;
+    height: 40px;
+    background-color: #282828;
+    border-radius: 5px;
+    padding: 5px;
+    font-weight: 700;
+    font-style: normal;
+    line-height: 20px;
+    font-size: 14px;
+}
+
+#para-2 {
+    color: #FFFFFF;
+    position: absolute;
+    width: 344px;
+    height: 61px;
+    top: 300px;
+    left: 135px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 500;
+    line-height: 25.6px;
+    font-size: 14px;
+} 
+
+#image-1 {
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    right: 150px;
+    top: 25px;
+}
+
+.footer-flex {
+    background-color: #282828;
+    height: 30vh;
+    display: flex;
+    justify-content: space-around;
+    color: #FFFFFF;
+    align-items: center;
+    line-height: 23px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    font-size: 13px;
+}
+
+.footer-items {
+    height: 120px;
+    width: 200px;
+}
+
+.footer-icons {
+    height: 10px;
+    width: 10px;
+}
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
