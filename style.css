@@ -99,7 +99,7 @@ body {
     font-size: 14px;
 } 
 
-#image-1 {
+#dev-img {
     position: absolute;
     width: 300px;
     height: 300px;
@@ -118,17 +118,29 @@ body {
     font-family: 'Inter', sans-serif;
     font-weight: 400;
     font-size: 13px;
+    
 }
 
 .footer-items {
     height: 120px;
-    width: 200px;
+    width: 150px;
 }
 
 .footer-icons {
-    height: 10px;
-    width: 10px;
+    height: 15px;
+    width: 15px;
 }
+
+#instaImage {
+    border-radius: 30%;
+    
+}
+
+.right-align {
+    position: absolute;
+    right: 21%;
+
+} 
 
 
 
