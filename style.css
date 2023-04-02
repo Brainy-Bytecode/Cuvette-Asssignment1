@@ -131,12 +131,19 @@ body {
     width: 15px;
 }
 
-#instaImage {
-    border-radius: 30%;
-    
-}
-
 .right-align {
     position: absolute;
-    right: 21%;
+    right: 20.8%;
+}
+
+#instaImage {
+    border-radius: 30%;
+}
+
+#linkedImage {
+    right:22.7%;
+}
+
+.img {
+    bottom:12.5%;
 }
